@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-12T18:15:58.932Z",
+  "updatedAt": "2026-04-17T18:06:17.197Z",
   "modpacks": [
     {
       "id": "Zomboid",
@@ -13,12 +13,13 @@
       "icon": "📦",
       "bannerColor": "pink",
       "featured": false,
-      "totalMods": 79,
-      "sizeMb": 600.1,
+      "totalMods": 125,
+      "sizeMb": 655.7,
       "publishedAt": "2026-04-12T18:15:58.932Z",
       "archiveUrl": "https://github.com/ffxlino/CMML/releases/download/Zomboid-v1.0/Zomboid-v1.0.zip",
-      "archiveHash": "f6b287c24a4d4602589d456d21062aa5636421d61ef78d48292c1442a2e6f490",
-      "archiveExt": ".zip"
+      "archiveHash": "ca19122092b29feef0a2b2055aa6e8ca9da55678e3fb1fb33f25c927284b3c64",
+      "archiveExt": ".zip",
+      "updatedAt": "2026-04-17T18:06:17.197Z"
     }
   ]
 }
