@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-17T18:06:17.197Z",
+  "updatedAt": "2026-04-18T13:16:55.651Z",
   "modpacks": [
     {
       "id": "Zomboid",
@@ -20,6 +20,1079 @@
       "archiveHash": "ca19122092b29feef0a2b2055aa6e8ca9da55678e3fb1fb33f25c927284b3c64",
       "archiveExt": ".zip",
       "updatedAt": "2026-04-17T18:06:17.197Z"
+    },
+    {
+      "id": "zomboid2",
+      "name": "Zomboid-V2",
+      "version": "1.2.0",
+      "mcVersion": "1.20.1",
+      "loader": "forge",
+      "loaderVersion": "47.4.10",
+      "description": "Updated Zomboid modpack",
+      "icon": "📦",
+      "bannerColor": "purple",
+      "featured": false,
+      "totalMods": 117,
+      "sizeMb": 536.6,
+      "publishedAt": "2026-04-18T13:16:55.651Z",
+      "archiveUrl": "https://github.com/ffxlino/CMML/releases/download/zomboid2-v1.2.0/zomboid2-v1.2.0.zip",
+      "archiveHash": "7187080d97b3e7b3def134e394656442292f17a43af2432dac7c439ab0ad07e2",
+      "archiveExt": ".zip",
+      "mods": [
+        {
+          "filename": "[1.20.1] SecurityCraft v1.10.1.jar",
+          "displayName": "SecurityCraft",
+          "sha1": "98e4af60aa0f272105b7ffcdf154d7ab670a73bc",
+          "iconUrl": "https://cdn.modrinth.com/data/v8jzRtAt/5752f0894c70259757239dd128574c44f512de3f.png",
+          "side": "both",
+          "modrinthId": "v8jzRtAt",
+          "source": "modrinth"
+        },
+        {
+          "filename": "1.20-1.20.1-RemindClockHUD-1.0.0-beta.jar",
+          "displayName": "RemindClockHUD",
+          "sha1": "8ba434b1add2da8ef3150f2ed3be4d63e54e42ee",
+          "iconUrl": "https://cdn.modrinth.com/data/eCcKsjlH/f62e5961230905c5daf4134a5001ef67d974b3d4_96.webp",
+          "side": "client",
+          "modrinthId": "eCcKsjlH",
+          "source": "modrinth"
+        },
+        {
+          "filename": "AmbientSounds_FORGE_v6.3.4_mc1.20.1.jar",
+          "displayName": "AmbientSounds",
+          "sha1": "e84e7053c4c3a73c7f608c9da516bb5d393aab60",
+          "iconUrl": "https://cdn.modrinth.com/data/fM515JnW/9a8eca9c055ec1dd753a7209210fcb22a2d40ff7_96.webp",
+          "side": "client",
+          "modrinthId": "fM515JnW",
+          "source": "modrinth"
+        },
+        {
+          "filename": "appleskin-forge-mc1.20.1-2.5.1.jar",
+          "displayName": "AppleSkin",
+          "sha1": "81919356f84eab14258db98924b66c3c38e372b1",
+          "iconUrl": "https://cdn.modrinth.com/data/EsAfCjCV/icon.png",
+          "side": "both",
+          "modrinthId": "EsAfCjCV",
+          "source": "modrinth"
+        },
+        {
+          "filename": "architectury-9.1.13-forge.jar",
+          "displayName": "Architectury API",
+          "sha1": "ef7558f149fc5db623f15aa7bf942f7ead5b8f0d",
+          "iconUrl": "https://cdn.modrinth.com/data/lhGA9TYQ/05fe3a61c28faaccaec3533b92e1b321edde7bf6_96.webp",
+          "side": "both",
+          "modrinthId": "lhGA9TYQ",
+          "source": "modrinth"
+        },
+        {
+          "filename": "architectury-9.2.14-forge.jar",
+          "displayName": "Architectury API",
+          "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
+          "iconUrl": "https://cdn.modrinth.com/data/lhGA9TYQ/05fe3a61c28faaccaec3533b92e1b321edde7bf6_96.webp",
+          "side": "both",
+          "modrinthId": "lhGA9TYQ",
+          "source": "modrinth"
+        },
+        {
+          "filename": "balm-forge-1.20.1-7.3.38-all.jar",
+          "displayName": "balm",
+          "sha1": "515905f87268f1eb5af2a9878a84914517efe552",
+          "iconUrl": null,
+          "side": "both",
+          "modrinthId": null,
+          "source": "custom"
+        },
+        {
+          "filename": "BetterF3-7.0.2-Forge-1.20.1.jar",
+          "displayName": "BetterF3",
+          "sha1": "b65cba59e87dc6c6d1aa9c47f09b9996b4e5075d",
+          "iconUrl": "https://cdn.modrinth.com//data/8shC1gFX/icon.png",
+          "side": "client",
+          "modrinthId": "8shC1gFX",
+          "source": "modrinth"
+        },
+        {
+          "filename": "Bookshelf-Forge-1.20.1-20.2.15.jar",
+          "displayName": "Bookshelf",
+          "sha1": "9df4908f606c6dc62a358b3e04e3fdedba59a12c",
+          "iconUrl": "https://cdn.modrinth.com/data/uy4Cnpcm/002e73d916fb63c9c85e212ac47fde4ef9c4a65f.png",
+          "side": "both",
+          "modrinthId": "uy4Cnpcm",
+          "source": "modrinth"
+        },
+        {
+          "filename": "BrandonsCore-1.20.1-3.2.1.302-universal.jar",
+          "displayName": "Brandons Core",
+          "sha1": "1378ba5f84267c18f945c52d787ac86e40d6c241",
+          "iconUrl": "https://cdn.modrinth.com/data/iFDWVIFV/88eadeb39915da8aa1afdb8fbe707b3b0fc727eb_96.webp",
+          "side": "both",
+          "modrinthId": "iFDWVIFV",
+          "source": "modrinth"
+        },
+        {
+          "filename": "cave_dweller-1.20.1-1.7.0.jar",
+          "displayName": "Cave Dweller Evolved",
+          "sha1": "36ed8ff10064938323d0707e2689b30a247573cd",
+          "iconUrl": "https://cdn.modrinth.com/data/70pj2OCh/1320e15f61787da222b2799c35549424d2b8ffd1.png",
+          "side": "both",
+          "modrinthId": "70pj2OCh",
+          "source": "modrinth"
+        },
+        {
+          "filename": "Cell-Forge-1.20.1.jar",
+          "displayName": "Cell (Vanilla+)",
+          "sha1": "5e192090f77319a7168bc6025d6fe597915b489a",
+          "iconUrl": "https://cdn.modrinth.com/data/aLg3EvUx/679a86c915723f208f9f2345551a33f612ca2c54_96.webp",
+          "side": "both",
+          "modrinthId": "aLg3EvUx",
+          "source": "modrinth"
+        },
+        {
+          "filename": "ChangedAdditions-m1.20.1-v0.1.0.fixV2-PATCHED.jar",
+          "displayName": "ChangedAdditions m1.20.1 v0.1.0.fixV2 PATCHED",
+          "sha1": "ac16cb00c6fe479713b27d08f3e884f3af6982fd",
+          "iconUrl": null,
+          "side": "both",
+          "modrinthId": null,
+          "source": "custom"
+        },
+        {
+          "filename": "changedaddon-1.20.1-1.0.0.jar",
+          "displayName": "changedaddon",
+          "sha1": "0af8b281707f5a5a82815f563ecb4903462a08f6",
+          "iconUrl": null,
+          "side": "both",
+          "modrinthId": null,
+          "source": "custom"
+        },
+        {
+          "filename": "ChangedAddon-m1.20.1-2.8.0-all-patches.jar",
+          "displayName": "Changed addon Plus",
+          "sha1": "003ce6cd6751dc64a4966b20451b7b29468d2907",
+          "iconUrl": "https://cdn.modrinth.com/data/pUaHg1ry/098a2617f3386064d564b94983395e8b0607c3c8_96.webp",
+          "side": "both",
+          "modrinthId": "pUaHg1ry",
+          "source": "modrinth"
+        },
+        {
+          "filename": "Changed-m1.20.1-v0.15.4-all.jar",
+          "displayName": "Changed: Minecraft Mod",
+          "sha1": "c2a36fd85bbc6920d17c0b800ebd029fe23d2a29",
+          "iconUrl": "https://cdn.modrinth.com/data/pqfVJxqj/a3912f65782dad6d2789f82e77a045405de305f0_96.webp",
+          "side": "both",
+          "modrinthId": "pqfVJxqj",
+          "source": "modrinth"
+        },
+        {
+          "filename": "cloth-config-11.1.136-forge.jar",
+          "displayName": "Cloth Config API",
+          "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f",
+          "iconUrl": "https://cdn.modrinth.com/data/9s6osm5g/ed8a2316cbb6f4fc5f510e8e13a59a85cbbbff4d_96.webp",
+          "side": "both",
+          "modrinthId": "9s6osm5g",
+          "source": "modrinth"
+        },
+        {
+          "filename": "Clumps-forge-1.20.1-12.0.0.4.jar",
+          "displayName": "Clumps",
+          "sha1": "8809c7aa6c71389e9c59abfe5def52c1cb8d4f1c",
+          "iconUrl": "https://cdn.modrinth.com/data/Wnxd13zP/6a965bb7974c3e759a53a1c89c35de4acd4cf86a_96.webp",
+          "side": "both",
+          "modrinthId": "Wnxd13zP",
+          "source": "modrinth"
+        },
+        {
+          "filename": "CodeChickenLib-1.20.1-4.4.0.516-universal.jar",
+          "displayName": "CodeChicken Lib",
+          "sha1": "f9b90ff58442b5967366fd90d24980a34540518d",
+          "iconUrl": "https://cdn.modrinth.com/data/2gq0ALnz/bd9432524341db1b71b3d0a64d92383ba90d2725_96.webp",
+          "side": "both",
+          "modrinthId": "2gq0ALnz",
+          "source": "modrinth"
+        },
+        {
+          "filename": "collective-1.20.1-8.13.jar",
+          "displayName": "Collective",
+          "sha1": "74b917dd99cd97b2f0480628a1b56958f5e0f5ad",
+          "iconUrl": "https://cdn.modrinth.com/data/e0M1UDsY/f5e4fe9ac298e2c14591920d6bda937c566accd0_96.webp",
+          "side": "both",
+          "modrinthId": "e0M1UDsY",
+          "source": "modrinth"
+        },
+        {
+          "filename": "compactexpansion-1.20.1_1.3.1.jar",
+          "displayName": "compactexpansion",
+          "sha1": "efc3d39f232aa001c400ffa65a210535dd2644ae",
+          "iconUrl": null,
+          "side": "both",
+          "modrinthId": null,
+          "source": "custom"
+        },
+        {
+          "filename": "compactmachines-forge-6.0.3.jar",
+          "displayName": "compactmachines forge 6.0.3",
+          "sha1": "41debe12bc7b013c39998788ed02ee971a11518f",
+          "iconUrl": null,
+          "side": "both",
+          "modrinthId": null,
+          "source": "custom"
+        },
+        {
+          "filename": "Connector-1.0.0-beta.33+1.20.1.jar",
+          "displayName": "Connector",
+          "sha1": "94ed3358da7a975af3a0f49b378bbea0e8957989",
+          "iconUrl": null,
+          "side": "both",
+          "modrinthId": null,
+          "source": "custom"
+        },
+        {
+          "filename": "Controlling-forge-1.20.1-12.0.2.jar",
+          "displayName": "Controlling",
+          "sha1": "6195a3d1464f8fb641d7e165163aea1a857ce08e",
+          "iconUrl": "https://cdn.modrinth.com/data/xv94TkTM/bdb6feb3d04ca37da4ed5aa73fef062a39d8b3e5_96.webp",
+          "side": "client",
+          "modrinthId": "xv94TkTM",
+          "source": "modrinth"
+        },
+        {
+          "filename": "copycats-3.0.7+mc.1.20.1-forge.jar",
+          "displayName": "Create: Copycats+",
+          "sha1": "5d0f497695fc2ee4ef89f1898458882b9d2d3aad",
+          "iconUrl": "https://cdn.modrinth.com/data/UT2M39wf/17960b56556c644249686a22172eda0924f8bbe0_96.webp",
+          "side": "both",
+          "modrinthId": "UT2M39wf",
+          "source": "modrinth"
+        },
+        {
+          "filename": "CrashAssistant-forge-1.19-1.20.1-1.11.6.jar",
+          "displayName": "Crash Assistant",
+          "sha1": "dd2a62eb31ebe96b3f13ea9288527c2000cd6fa5",
+          "iconUrl": "https://cdn.modrinth.com/data/ix1qq8Ux/0850872f4de156ee91a8b1d1f71615cb4615bfa4_96.webp",
+          "side": "client",
+          "modrinthId": "ix1qq8Ux",
+          "source": "modrinth"
+        },
+        {
+          "filename": "create-1.20.1-6.0.8.jar",
+          "displayName": "Create",
+          "sha1": "b13d912b9247a38d66d11598c121442585a1c1e9",
+          "iconUrl": "https://cdn.modrinth.com/data/LNytGWDc/61d716699bcf1ec42ed4926a9e1c7311be6087e2_96.webp",
+          "side": "both",
+          "modrinthId": "LNytGWDc",
+          "source": "modrinth"
+        },
+        {
+          "filename": "Create-Better-Storages-Forge-1.20.1-1.0b.Release.jar",
+          "displayName": "Create: Bigger Storage",
+          "sha1": "7d33798500f3a78e47ee2c2f75dde7c0816c6db8",
+          "iconUrl": "https://cdn.modrinth.com/data/6TmBmVOK/8bc6a362380383606aeb25f9e7953e2100ae6ec2_96.webp",
+          "side": "both",
+          "modrinthId": "6TmBmVOK",
+          "source": "modrinth"
+        },
+        {
+          "filename": "createbiggerstoragetocreate6-1.1.jar",
+          "displayName": "createbiggerstoragetocreate6",
+          "sha1": "a522778fea454b93c20888876118baf6156c7fb3",
+          "iconUrl": null,
+          "side": "both",
+          "modrinthId": null,
+          "source": "custom"
+        },
+        {
+          "filename": "createdeco-2.0.3-1.20.1-forge.jar",
+          "displayName": "Create Deco",
+          "sha1": "54c8ad5686b846310bca9e69982a455e668dede3",
+          "iconUrl": "https://cdn.modrinth.com/data/sMvUb4Rb/b60e1330b10bd1d7b1f2c0b7337a25f73b0eb555_96.webp",
+          "side": "both",
+          "modrinthId": "sMvUb4Rb",
+          "source": "modrinth"
+        },
+        {
+          "filename": "CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
+          "displayName": "CreativeCore",
+          "sha1": "f2324c43cd0bbb856b115ce1a688c33bff999294",
+          "iconUrl": "https://cdn.modrinth.com/data/OsZiaDHq/4953ecd3c0c8b185b2a56d64cdb104b03f3e5038_96.webp",
+          "side": "both",
+          "modrinthId": "OsZiaDHq",
+          "source": "modrinth"
+        },
+        {
+          "filename": "creepydecorations-forge-1.20.1-1.0.4.jar",
+          "displayName": "Creepy Decorations",
+          "sha1": "cbfff88d2a1beef5b106e6fcce41b86403a1c766",
+          "iconUrl": "https://cdn.modrinth.com/data/DneL9xAa/50ea906a69297b82d5870295ddd06baf2af2eaab_96.webp",
+          "side": "both",
+          "modrinthId": "DneL9xAa",
+          "source": "modrinth"
+        },
+        {
+          "filename": "curios-forge-5.14.1+1.20.1.jar",
+          "displayName": "Curios API",
+          "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
+          "iconUrl": "https://cdn.modrinth.com/data/vvuO3ImH/2a7323ca80849de0bcb50299e18acdf8bf394682.png",
+          "side": "both",
+          "modrinthId": "vvuO3ImH",
+          "source": "modrinth"
+        },
+        {
+          "filename": "darkness-forge-1.20.1-2.0.103-fork.jar",
+          "displayName": "darkness",
+          "sha1": "56be989675f110d74c04567c4ccc3c1941f7472c",
+          "iconUrl": null,
+          "side": "both",
+          "modrinthId": null,
+          "source": "custom"
+        },
+        {
+          "filename": "distorted_discs-0.8-forge-1.20.1.jar",
+          "displayName": "Distorted Discs",
+          "sha1": "d4f4ff69e0977fa509372fb4f7bbe8e16dcbdc32",
+          "iconUrl": "https://cdn.modrinth.com/data/c1YGVwll/fdc609477ba1a8bd85a0a734b351a000cd2b9c43_96.webp",
+          "side": "both",
+          "modrinthId": "c1YGVwll",
+          "source": "modrinth"
+        },
+        {
+          "filename": "doubledoors-1.20.1-7.2.jar",
+          "displayName": "Double Doors",
+          "sha1": "e97abe73c78be318584623a5e5b6e311e545da31",
+          "iconUrl": "https://cdn.modrinth.com/data/JrvR9OHr/bf25550d32342e00b8a8065a99f83f22e34b3d88_96.webp",
+          "side": "server",
+          "modrinthId": "JrvR9OHr",
+          "source": "modrinth"
+        },
+        {
+          "filename": "doubleslabs-forge-1.20.1-0.2.0.jar",
+          "displayName": "Double Slabs",
+          "sha1": "48363150bbcc5fdef13ec64b4a18c9db67aa80c9",
+          "iconUrl": "https://cdn.modrinth.com/data/hcHS5k6e/76d61796d010af33fdbae737f654e3a0c93e5de6_96.webp",
+          "side": "both",
+          "modrinthId": "hcHS5k6e",
+          "source": "modrinth"
+        },
+        {
+          "filename": "Draconic-Evolution-1.20.1-3.1.2.621-universal.jar",
+          "displayName": "Draconic Evolution",
+          "sha1": "8abd0ee849f9654ec91d3ecbd115e2c296f08c73",
+          "iconUrl": "https://cdn.modrinth.com/data/nBqivi8H/990a99155e8617963e69735623f3e179fc6b8753_96.webp",
+          "side": "both",
+          "modrinthId": "nBqivi8H",
+          "source": "modrinth"
+        },
+        {
+          "filename": "dynamiclights-1.20.1.2.jar",
+          "displayName": "dynamiclights",
+          "sha1": "19a5b772e1b6ca15cca8db6f201884459f37a173",
+          "iconUrl": null,
+          "side": "both",
+          "modrinthId": null,
+          "source": "custom"
+        },
+        {
+          "filename": "effecttimerhud-1.0.1.jar",
+          "displayName": "EffectTimerHUD",
+          "sha1": "78e59581632191636ce2aece141e84f94c813348",
+          "iconUrl": "https://cdn.modrinth.com/data/oBW6VfGF/94a971c7af4b3d676711194872e52588e15259a5_96.webp",
+          "side": "client",
+          "modrinthId": "oBW6VfGF",
+          "source": "modrinth"
+        },
+        {
+          "filename": "embeddium-0.3.31+mc1.20.1.jar",
+          "displayName": "Embeddium",
+          "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
+          "iconUrl": "https://cdn.modrinth.com/data/sk9rgfiA/55f9c50284f8abbbe2a485abfd6a16209201e451_96.webp",
+          "side": "client",
+          "modrinthId": "sk9rgfiA",
+          "source": "modrinth"
+        },
+        {
+          "filename": "enchantmentlevelcapindicator-1.20.1-1.1.jar",
+          "displayName": "Enchantment Level Cap Indicator",
+          "sha1": "7b72b5902fb57d3a01daa450e1eef9476b5cefc2",
+          "iconUrl": "https://cdn.modrinth.com/data/82BWabBj/b4d4d9cbfc75c82314d29886d5c77e99f0c43630.png",
+          "side": "client",
+          "modrinthId": "82BWabBj",
+          "source": "modrinth"
+        },
+        {
+          "filename": "entityculling-forge-1.10.0-mc1.20.1.jar",
+          "displayName": "Entity Culling",
+          "sha1": "b7e15f04d29f4d97afff8a6ce5a0162d2a595819",
+          "iconUrl": "https://cdn.modrinth.com/data/NNAgCjsB/7873452d6cede4daed12da3d7d8c193ab88b4fd6_96.webp",
+          "side": "client",
+          "modrinthId": "NNAgCjsB",
+          "source": "modrinth"
+        },
+        {
+          "filename": "Essential_1-3-10-8_forge_1-20-1.jar",
+          "displayName": "Essential Mod",
+          "sha1": "e34b0298fd5ffbaab7095e209b93d535ef48e8af",
+          "iconUrl": "https://cdn.modrinth.com/data/k2ZPuTBm/7f7ac7cf2a46d5f02e9644372c44b3095ad61ffb_96.webp",
+          "side": "client",
+          "modrinthId": "k2ZPuTBm",
+          "source": "modrinth"
+        },
+        {
+          "filename": "fabric-api-0.92.6+1.11.14+1.20.1.jar",
+          "displayName": "Forgified Fabric API",
+          "sha1": "285c22b2567b9fdf98ef9808eceb5557de9611d3",
+          "iconUrl": "https://cdn.modrinth.com/data/Aqlf1Shp/bcdcfed483b0365807f75181eea89b7960cd3b1b_96.webp",
+          "side": "both",
+          "modrinthId": "Aqlf1Shp",
+          "source": "modrinth"
+        },
+        {
+          "filename": "fast-ip-ping-v1.0.8-mc1.20.4-forge.jar",
+          "displayName": "Fast IP Ping",
+          "sha1": "ceeeae222c51ae100e5126c4a5a7a05f4f3f4712",
+          "iconUrl": "https://cdn.modrinth.com/data/9mtu0sUO/dca186a8a57d45ad06e88de6cfc45d4cc4c6a0ba.png",
+          "side": "client",
+          "modrinthId": "9mtu0sUO",
+          "source": "modrinth"
+        },
+        {
+          "filename": "ferritecore-6.0.1-forge.jar",
+          "displayName": "FerriteCore",
+          "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
+          "iconUrl": "https://cdn.modrinth.com/data/uXXizFIs/222a126f26f8f9ae1eb339f3b767677f18bff31f_96.webp",
+          "side": "both",
+          "modrinthId": "uXXizFIs",
+          "source": "modrinth"
+        },
+        {
+          "filename": "flashlight-5.1-forge-1.20.1.jar",
+          "displayName": "flashlight 5.1",
+          "sha1": "0cc94ec6d0d14a2662f734b0d4058fad841b685b",
+          "iconUrl": null,
+          "side": "both",
+          "modrinthId": null,
+          "source": "custom"
+        },
+        {
+          "filename": "flowermimics-1.20.1-2.1.jar",
+          "displayName": "Flower Mimics",
+          "sha1": "a13374c570b1ede07169c755b090755719fd6dcf",
+          "iconUrl": "https://cdn.modrinth.com/data/1r5vvCad/e3f1b4c0dda6b63bd95873ce752dc83029493baf_96.webp",
+          "side": "server",
+          "modrinthId": "1r5vvCad",
+          "source": "modrinth"
+        },
+        {
+          "filename": "framework-forge-1.20.1-0.8.0.jar",
+          "displayName": "framework",
+          "sha1": "27347879f8760a7bc0b4bd71977abc50e498811c",
+          "iconUrl": null,
+          "side": "both",
+          "modrinthId": null,
+          "source": "custom"
+        },
+        {
+          "filename": "From-The-Fog-1.20-v1.9.2-Forge-Fabric.jar",
+          "displayName": "From The Fog",
+          "sha1": "8508868b645b4c8bcdfef1437f0278173eaadbbb",
+          "iconUrl": "https://cdn.modrinth.com/data/p1WH6sHr/bb4b839b9cd0f1dc51ee5ac08081fb76df42ebe1_96.webp",
+          "side": "both",
+          "modrinthId": "p1WH6sHr",
+          "source": "modrinth"
+        },
+        {
+          "filename": "funny_death_sound-1.1.0-forge-1.20.1.jar",
+          "displayName": "Meme death sound",
+          "sha1": "25c3aa1fe96258d156a0b1e68fa978376abfab40",
+          "iconUrl": "https://cdn.modrinth.com/data/EFLJed6B/c2b8243122ebf35fa20dc1b27126ef0c33885e38_96.webp",
+          "side": "both",
+          "modrinthId": "EFLJed6B",
+          "source": "modrinth"
+        },
+        {
+          "filename": "geckolib-forge-1.20.1-4.8.3.jar",
+          "displayName": "geckolib",
+          "sha1": "5428765c6c2e2135da6ee01f2f0478fa0db6aee7",
+          "iconUrl": null,
+          "side": "both",
+          "modrinthId": null,
+          "source": "custom"
+        },
+        {
+          "filename": "immersive_paintings-0.6.11+1.20.1-forge.jar",
+          "displayName": "Immersive Paintings",
+          "sha1": "99ffd1b03beb8a0ef362baf89cc25cc5c24afe14",
+          "iconUrl": "https://cdn.modrinth.com/data/6txNkua3/8c7abdd0a185dace29d4c4a0476f2d8af29475a9_96.webp",
+          "side": "both",
+          "modrinthId": "6txNkua3",
+          "source": "modrinth"
+        },
+        {
+          "filename": "immersiveenchanting-4.0.3-forge-1.20.1.jar",
+          "displayName": "Immersive Enchanting",
+          "sha1": "995d45d8a3dbd57c5840cc7f61bc11551d3d58c6",
+          "iconUrl": "https://cdn.modrinth.com/data/DfWQAvS4/f3d191989f7a93fa205d866a0807939466d9758e_96.webp",
+          "side": "both",
+          "modrinthId": "DfWQAvS4",
+          "source": "modrinth"
+        },
+        {
+          "filename": "ImmersiveEngineering-1.20.1-10.2.0-183.jar",
+          "displayName": "Immersive Engineering",
+          "sha1": "b6e403e0e5be1802268be366ad1a7791f07fb793",
+          "iconUrl": "https://cdn.modrinth.com/data/tIm2nV03/icon.png",
+          "side": "both",
+          "modrinthId": "tIm2nV03",
+          "source": "modrinth"
+        },
+        {
+          "filename": "inventoryessentials-forge-1.20.1-8.2.14.jar",
+          "displayName": "inventoryessentials",
+          "sha1": "6840fd9a2b989855c804a2487d3f294d4cab46a5",
+          "iconUrl": null,
+          "side": "both",
+          "modrinthId": null,
+          "source": "custom"
+        },
+        {
+          "filename": "InventoryParticles-1.5.0+1.20.1+forge.jar",
+          "displayName": "Inventory Particles",
+          "sha1": "1afb0e52d49b372e08cec0bcb574fbe5a4f5772b",
+          "iconUrl": "https://cdn.modrinth.com/data/XYnKrsxH/e6973926d0f896e2bf7df8d69a7e53e78502606f_96.webp",
+          "side": "client",
+          "modrinthId": "XYnKrsxH",
+          "source": "modrinth"
+        },
+        {
+          "filename": "Jade-1.20.1-Forge-11.13.2.jar",
+          "displayName": "Jade 🔍",
+          "sha1": "1997e5fe2db3a0575ca79bfe4720019f01fd2b8c",
+          "iconUrl": "https://cdn.modrinth.com/data/nvQzSEkH/b04217bc2b7dc524c4d12f81ff42cc1cefb9b0fc_96.webp",
+          "side": "both",
+          "modrinthId": "nvQzSEkH",
+          "source": "modrinth"
+        },
+        {
+          "filename": "jei-1.20.1-forge-15.20.0.129.jar",
+          "displayName": "Just Enough Items (JEI)",
+          "sha1": "eba88424bd28c8bce0e49da13ada71cd47148b47",
+          "iconUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/4a3f18ac0d096c9f8e9176984c44be4e58f94c89_96.webp",
+          "side": "both",
+          "modrinthId": "u6dRKJwZ",
+          "source": "modrinth"
+        },
+        {
+          "filename": "kotlinforforge-4.12.0-all.jar",
+          "displayName": "Kotlin for Forge",
+          "sha1": "962fdb760409d6d71cbf079235f1ca94e3863a22",
+          "iconUrl": "https://cdn.modrinth.com/data/ordsPcFz/064b8f129b776eb303f7f8b1a610e21d153c74b9_96.webp",
+          "side": "both",
+          "modrinthId": "ordsPcFz",
+          "source": "modrinth"
+        },
+        {
+          "filename": "limitless-forge-2.0.0-1.20.1.jar",
+          "displayName": "Limitless Enchantments",
+          "sha1": "1b33efd3a31826bf0323351ed2d0929213b2856f",
+          "iconUrl": "https://cdn.modrinth.com/data/9do6lbqp/2023c3476390f9f151768cbbe89aedb275c9aacb_96.webp",
+          "side": "both",
+          "modrinthId": "9do6lbqp",
+          "source": "modrinth"
+        },
+        {
+          "filename": "mcw-bridges-3.1.2-mc1.20.1forge.jar",
+          "displayName": "Macaw's Bridges",
+          "sha1": "24f30313977ec61520a2adab321188b51c208d16",
+          "iconUrl": "https://cdn.modrinth.com/data/GURcjz8O/5cd0895fdcde03f1d970ef910dd9287fb881bdc6_96.webp",
+          "side": "both",
+          "modrinthId": "GURcjz8O",
+          "source": "modrinth"
+        },
+        {
+          "filename": "mcw-doors-1.1.5-mc1.20.1forge.jar",
+          "displayName": "Macaw's Doors",
+          "sha1": "fe6a9eb2fbc78300a6286fd25854c9f087e689a6",
+          "iconUrl": "https://cdn.modrinth.com/data/kNxa8z3e/ced8fa00264400cbe06d622b92a6d1106cedc65d_96.webp",
+          "side": "both",
+          "modrinthId": "kNxa8z3e",
+          "source": "modrinth"
+        },
+        {
+          "filename": "mcw-furniture-3.4.1-mc1.20.1forge.jar",
+          "displayName": "Macaw's Furniture",
+          "sha1": "c05189646bbde5c0d4486b93de0d707115f8445c",
+          "iconUrl": "https://cdn.modrinth.com/data/dtWC90iB/2d2fdc39e9ab4c1cc56c6ce2785b6d60343bb86d_96.webp",
+          "side": "both",
+          "modrinthId": "dtWC90iB",
+          "source": "modrinth"
+        },
+        {
+          "filename": "mcw-holidays-1.1.2-mc1.20.1forge.jar",
+          "displayName": "Macaw's Holidays",
+          "sha1": "dd125b79755ebd99aac3354b4670a5dd3c8086bd",
+          "iconUrl": "https://cdn.modrinth.com/data/rH20L2Lp/b6075bf7698016577b1329d4b048462ff6f9b0d3_96.webp",
+          "side": "both",
+          "modrinthId": "rH20L2Lp",
+          "source": "modrinth"
+        },
+        {
+          "filename": "mcw-lights-1.1.5-mc1.20.1forge.jar",
+          "displayName": "Macaw's Lights and Lamps",
+          "sha1": "76dde38745ad436f2784f71939dc0941d7d51c6e",
+          "iconUrl": "https://cdn.modrinth.com/data/w4an97C2/23b3786d03ab6ed8b8df056d1123f20129175b6b_96.webp",
+          "side": "both",
+          "modrinthId": "w4an97C2",
+          "source": "modrinth"
+        },
+        {
+          "filename": "mcw-mcwfences-1.2.1-mc1.20.1forge.jar",
+          "displayName": "Macaw's Fences and Walls",
+          "sha1": "d24bc6e1ba7f04e058db019ae5ca3d10edd9510a",
+          "iconUrl": "https://cdn.modrinth.com/data/GmwLse2I/ebe4d2375e0a402e5587665ba9da5eb50f37422a_96.webp",
+          "side": "both",
+          "modrinthId": "GmwLse2I",
+          "source": "modrinth"
+        },
+        {
+          "filename": "mcw-mcwpaths-1.1.1-mc1.20.1forge.jar",
+          "displayName": "Macaw's Paths and Pavings",
+          "sha1": "821e5f406afa53a5c1d3346a20efb0ec7be97997",
+          "iconUrl": "https://cdn.modrinth.com/data/VRLhWB91/4564a530eaf62d3704796e407f700dc1f1fc22f8_96.webp",
+          "side": "both",
+          "modrinthId": "VRLhWB91",
+          "source": "modrinth"
+        },
+        {
+          "filename": "mcw-mcwstairs-1.0.2-mc1.20.1forge.jar",
+          "displayName": "Macaw's Stairs",
+          "sha1": "8f3a8271e43b53171c3a4d4827415bebd06775d9",
+          "iconUrl": "https://cdn.modrinth.com/data/iP3wH1ha/7760df8839c395ee42099387cd9cb0fe34b2626e_96.webp",
+          "side": "both",
+          "modrinthId": "iP3wH1ha",
+          "source": "modrinth"
+        },
+        {
+          "filename": "mcw-mcwwindows-2.4.2-mc1.20.1forge.jar",
+          "displayName": "Macaw's Windows",
+          "sha1": "214da89b2153d496343bde8626283975e358edbd",
+          "iconUrl": "https://cdn.modrinth.com/data/C7I0BCni/7eb5e7816f887154e69a4001bee5bcc143242b32_96.webp",
+          "side": "both",
+          "modrinthId": "C7I0BCni",
+          "source": "modrinth"
+        },
+        {
+          "filename": "mcw-paintings-1.1.0-mc1.20.1forge.jar",
+          "displayName": "Macaw's Paintings",
+          "sha1": "06249429fe69cedfad63253aaee4da29ebe9beda",
+          "iconUrl": "https://cdn.modrinth.com/data/okE6QVAY/c3899cf3bd5b780839e98257492a6b68372eca3d_96.webp",
+          "side": "both",
+          "modrinthId": "okE6QVAY",
+          "source": "modrinth"
+        },
+        {
+          "filename": "mcw-roofs-2.3.2-mc1.20.1forge.jar",
+          "displayName": "Macaw's Roofs",
+          "sha1": "2b02beb2bd177aa695dc6fc030fc3bb230ca96b1",
+          "iconUrl": "https://cdn.modrinth.com/data/B8jaH3P1/e6652e3ddfe1cc21188c7bf354a4570292791864_96.webp",
+          "side": "both",
+          "modrinthId": "B8jaH3P1",
+          "source": "modrinth"
+        },
+        {
+          "filename": "mcw-trapdoors-1.1.5-mc1.20.1forge.jar",
+          "displayName": "Macaw's Trapdoors",
+          "sha1": "1b3b4b40041346b19bc9ab280b288a9f6b77b513",
+          "iconUrl": "https://cdn.modrinth.com/data/n2fvCDlM/e764bf33a0a9d94fd33af84a63d8a47da7c85561_96.webp",
+          "side": "both",
+          "modrinthId": "n2fvCDlM",
+          "source": "modrinth"
+        },
+        {
+          "filename": "mixin-booster-0.1.3+1.20.1.jar",
+          "displayName": "Mixin Booster 🦀 Sp🧽nge Mixin Ultimate ⚡ Exterminator ☠️ MK2",
+          "sha1": "101cbc74611f0fbde2d332c4385fcc33fce0b8ac",
+          "iconUrl": "https://cdn.modrinth.com/data/bxn6Iwdo/d985482fb05ff038b35ebbb47bda4c5464b06f75_96.webp",
+          "side": "both",
+          "modrinthId": "bxn6Iwdo",
+          "source": "modrinth"
+        },
+        {
+          "filename": "modelfix-1.15.jar",
+          "displayName": "Model Gap Fix",
+          "sha1": "5bdda0781bf9dfb5f992a7aa2bee64d5d3fe0b84",
+          "iconUrl": "https://cdn.modrinth.com/data/QdG47OkI/5a8203e120985d11616614e11ad7b888997000d8.png",
+          "side": "client",
+          "modrinthId": "QdG47OkI",
+          "source": "modrinth"
+        },
+        {
+          "filename": "more-enchantment-info-0.3.0-forge-1.20.1.jar",
+          "displayName": "More Enchantment Info",
+          "sha1": "6398bf12360d3ebbbe5eb668fb84a2b237409085",
+          "iconUrl": "https://cdn.modrinth.com/data/TIo1UXXV/70dace736c9b4b2ab24c026262c3482bba179e4d_96.webp",
+          "side": "client",
+          "modrinthId": "TIo1UXXV",
+          "source": "modrinth"
+        },
+        {
+          "filename": "MossyLib-1.1.0+1.20.1+forge.jar",
+          "displayName": "MossyLib",
+          "sha1": "8adeec790c8ab8fe86078ececc0f5d41bccaba8c",
+          "iconUrl": "https://cdn.modrinth.com/data/ffLDUGbm/1787470c1ca81b2d0e0b3a9370d6f039d4f13207_96.webp",
+          "side": "client",
+          "modrinthId": "ffLDUGbm",
+          "source": "modrinth"
+        },
+        {
+          "filename": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+          "displayName": "Mouse Tweaks",
+          "sha1": "d751153e722a4e014691c83f39f5b07c6ec5333c",
+          "iconUrl": "https://cdn.modrinth.com/data/aC3cM3Vq/6c0eaa4e60a9c87f4766f222ff63286f09da32c0_96.webp",
+          "side": "client",
+          "modrinthId": "aC3cM3Vq",
+          "source": "modrinth"
+        },
+        {
+          "filename": "MRU-1.0.4+1.20.1+forge.jar",
+          "displayName": "M.R.U",
+          "sha1": "c92d6d7cf2ffa333d64752edcde2b3c5a3e6edab",
+          "iconUrl": "https://cdn.modrinth.com/data/SNVQ2c0g/82339bfc8a0a3a6a3c376f5c29555a378379cfa0_96.webp",
+          "side": "both",
+          "modrinthId": "SNVQ2c0g",
+          "source": "modrinth"
+        },
+        {
+          "filename": "nocube's_better_blast_furnace_1.0.1_Forge_1.20.1.jar",
+          "displayName": "nocube's better blast furnace",
+          "sha1": "aef8153be6396dee092122ddaccbd9d4d52d35fa",
+          "iconUrl": null,
+          "side": "both",
+          "modrinthId": null,
+          "source": "custom"
+        },
+        {
+          "filename": "oculus-mc1.20.1-1.8.0.jar",
+          "displayName": "Oculus",
+          "sha1": "984f774e71790deaec674c7587bd24e0711871b2",
+          "iconUrl": "https://cdn.modrinth.com/data/GchcoXML/09ef853cdfd3d467dead4faef37102535a2185d5_96.webp",
+          "side": "client",
+          "modrinthId": "GchcoXML",
+          "source": "modrinth"
+        },
+        {
+          "filename": "ParCool-1.20.1-3.4.3.3.jar",
+          "displayName": "ParCool!",
+          "sha1": "55f8b8a9fd9e23cd0dccff56461a8ae88464caed",
+          "iconUrl": "https://cdn.modrinth.com/data/Fsvx2bdR/a5e128ee74c427cf9ce629e2b9e33701474da8f7_96.webp",
+          "side": "both",
+          "modrinthId": "Fsvx2bdR",
+          "source": "modrinth"
+        },
+        {
+          "filename": "piercingpaxels-1.0.12.jar",
+          "displayName": "Piercing Paxels ⚒️",
+          "sha1": "4abf4480a1de2fa345df93d7f552a5528d88f5e4",
+          "iconUrl": "https://cdn.modrinth.com/data/gHkzYDn7/ba09a7acb6275cb0d467ededea2e6ae27e352325_96.webp",
+          "side": "both",
+          "modrinthId": "gHkzYDn7",
+          "source": "modrinth"
+        },
+        {
+          "filename": "PingHUD-3.0.jar",
+          "displayName": "PingHUD 3.0",
+          "sha1": "29508ed0b564a6c511e21e99cb1bbb80490bb9f9",
+          "iconUrl": null,
+          "side": "both",
+          "modrinthId": null,
+          "source": "custom"
+        },
+        {
+          "filename": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+          "displayName": "playerAnimator",
+          "sha1": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a",
+          "iconUrl": null,
+          "side": "both",
+          "modrinthId": "gedNE4y2",
+          "source": "modrinth"
+        },
+        {
+          "filename": "PlayerCollars-1.2.6+1.20.1-forge.jar",
+          "displayName": "Leashable Collars",
+          "sha1": "f929e1524ea5d41171fc92c29eb4c193c655a5a3",
+          "iconUrl": "https://cdn.modrinth.com/data/E1XS8bXN/14f0aace1411de31273546617e83adce8f42c57c.png",
+          "side": "both",
+          "modrinthId": "E1XS8bXN",
+          "source": "modrinth"
+        },
+        {
+          "filename": "players-forge-1.20.1-2.0.4.jar",
+          "displayName": "Fake Players",
+          "sha1": "0ca2d40e51f3563ebd9a9d453759f163d4ca63f8",
+          "iconUrl": "https://cdn.modrinth.com/data/1RSY6DQH/a4d76f75be943ec42a1b34eeb00d7fcc81aecf28_96.webp",
+          "side": "both",
+          "modrinthId": "1RSY6DQH",
+          "source": "modrinth"
+        },
+        {
+          "filename": "polymorph-forge-0.49.10+1.20.1.jar",
+          "displayName": "Polymorph",
+          "sha1": "e4afd6f512cc06311320357ed974cee586e031c3",
+          "iconUrl": "https://cdn.modrinth.com/data/tagwiZkJ/ed244c5829bde539763c7fffb55cb3194a349d66.png",
+          "side": "both",
+          "modrinthId": "tagwiZkJ",
+          "source": "modrinth"
+        },
+        {
+          "filename": "redstonepen-1.20.1-neoforge-1.3.33.jar",
+          "displayName": "Redstone Pen",
+          "sha1": "54318a6cc3fbe4fcb829daac215e3a5834696cdd",
+          "iconUrl": "https://cdn.modrinth.com/data/DwE83ioX/bd5d744fd430423838e204f635d9c11c9021a2a1.png",
+          "side": "both",
+          "modrinthId": "DwE83ioX",
+          "source": "modrinth"
+        },
+        {
+          "filename": "refurbished_furniture-forge-1.20.1-1.0.20.jar",
+          "displayName": "refurbished furniture",
+          "sha1": "ffb68135b88bdbb25224378c76daf922c3f4c322",
+          "iconUrl": null,
+          "side": "both",
+          "modrinthId": null,
+          "source": "custom"
+        },
+        {
+          "filename": "Reroll-Enchants-forge-1.20.1-0.jar",
+          "displayName": "Reroll Enchants",
+          "sha1": "d39309dd9bd0640fbb2657fa4341e830e60556e6",
+          "iconUrl": null,
+          "side": "both",
+          "modrinthId": null,
+          "source": "custom"
+        },
+        {
+          "filename": "Searchables-forge-1.20.1-1.0.3.jar",
+          "displayName": "Searchables",
+          "sha1": "5b976f6e76ec74cdef21865e31f56bcb11558db7",
+          "iconUrl": "https://cdn.modrinth.com/data/fuuu3xnx/206971d54b37b30a2e728b1c194f7f096963d05a_96.webp",
+          "side": "client",
+          "modrinthId": "fuuu3xnx",
+          "source": "modrinth"
+        },
+        {
+          "filename": "shadowdrop-1.1.1-1.20.1-forge.jar",
+          "displayName": "Shadow Drop",
+          "sha1": "49fe26a1cd5571de257223dcbe818cd90a4ce84f",
+          "iconUrl": "https://cdn.modrinth.com/data/COZRUliI/edc5db072d2fbc52d10f132e8e959333d0ad424b.png",
+          "side": "client",
+          "modrinthId": "COZRUliI",
+          "source": "modrinth"
+        },
+        {
+          "filename": "simple-day-display-15.jar",
+          "displayName": "Day Counter 🌞✅",
+          "sha1": "0036355989dcfabac7ae4244665658fdbd97952b",
+          "iconUrl": "https://cdn.modrinth.com/data/suiPCM19/77779fdecf17671d159e286a478ca2ae6213e97e.gif",
+          "side": "both",
+          "modrinthId": "suiPCM19",
+          "source": "modrinth"
+        },
+        {
+          "filename": "skinlayers3d-forge-1.11.1-mc1.20.1.jar",
+          "displayName": "3D Skin Layers",
+          "sha1": "b64ccb25ebe4cb7b09d1dd4561dbc519d5f02382",
+          "iconUrl": "https://cdn.modrinth.com/data/zV5r3pPn/ff7010d4ec0275609866c8b0f603b25e25949c08_96.webp",
+          "side": "client",
+          "modrinthId": "zV5r3pPn",
+          "source": "modrinth"
+        },
+        {
+          "filename": "sophisticatedbackpacks-1.20.1-3.24.32.1645.jar",
+          "displayName": "sophisticatedbackpacks",
+          "sha1": "a235ee73681218c6730a77b17b142768908a0c18",
+          "iconUrl": null,
+          "side": "both",
+          "modrinthId": null,
+          "source": "custom"
+        },
+        {
+          "filename": "sophisticatedcore-1.20.1-1.3.20.1670.jar",
+          "displayName": "sophisticatedcore",
+          "sha1": "eb6ffefe12364353f50719eef69f84cbfd51f59a",
+          "iconUrl": null,
+          "side": "both",
+          "modrinthId": null,
+          "source": "custom"
+        },
+        {
+          "filename": "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+          "displayName": "Sound Physics Remastered",
+          "sha1": "944b4673bcab118f411d050b2cd6b693262bb664",
+          "iconUrl": "https://cdn.modrinth.com/data/qyVF9oeo/798fbfae58ec95ad51f3e1d522b43227306c326c.png",
+          "side": "both",
+          "modrinthId": "qyVF9oeo",
+          "source": "modrinth"
+        },
+        {
+          "filename": "sounds_of_the_forest-1.0.2-forge-1.20.1.jar",
+          "displayName": "Sounds of the Forest",
+          "sha1": "6c418c6cf92c49d1138d71878b87b9d5d39d7492",
+          "iconUrl": "https://cdn.modrinth.com/data/jR6yvPF0/f47a2f860c368eb30034a8a620fde43b3af79c88_96.webp",
+          "side": "both",
+          "modrinthId": "jR6yvPF0",
+          "source": "modrinth"
+        },
+        {
+          "filename": "spookydoors-forge-1.20.1-20.1.6.jar",
+          "displayName": "spookydoors",
+          "sha1": "986c043727ed8adb465524bc60c9346acfb07494",
+          "iconUrl": null,
+          "side": "both",
+          "modrinthId": null,
+          "source": "custom"
+        },
+        {
+          "filename": "spore_2.2.0c_1.20.1.jar",
+          "displayName": "Fungal Infection:Spore",
+          "sha1": "335f91ca4e89b77b92441f5893b87ce01ab45aad",
+          "iconUrl": "https://cdn.modrinth.com/data/X661i40C/1c98b82b35fddb7a02358d4d27af706fd5e1a3ed_96.webp",
+          "side": "both",
+          "modrinthId": "X661i40C",
+          "source": "modrinth"
+        },
+        {
+          "filename": "supermartijn642corelib-1.1.21-forge-mc1.20.1.jar",
+          "displayName": "SuperMartijn642's Core Lib",
+          "sha1": "8a403876730a7186165e109f7f5292d31c6c3f4c",
+          "iconUrl": "https://cdn.modrinth.com/data/rOUBggPv/e745e719d7fe2aa0335d819ca9c97defbf2e0bcb_96.webp",
+          "side": "both",
+          "modrinthId": "rOUBggPv",
+          "source": "modrinth"
+        },
+        {
+          "filename": "tacz-1.20.1-1.1.7-hotfix2.jar",
+          "displayName": "[TaCZ] Timeless and Classics Zero",
+          "sha1": "cb84817b83025fa93d380e87de655e57a607ced8",
+          "iconUrl": "https://cdn.modrinth.com/data/SzzJttH8/fd27766d2bb8390d284696b1dbd358f87e081439_96.webp",
+          "side": "both",
+          "modrinthId": "SzzJttH8",
+          "source": "modrinth"
+        },
+        {
+          "filename": "TCTcore-1.20.1.jar",
+          "displayName": "TCTcore",
+          "sha1": "91f5584e7e7ec7710e561d6fbaf3ba097b8badc7",
+          "iconUrl": null,
+          "side": "both",
+          "modrinthId": null,
+          "source": "custom"
+        },
+        {
+          "filename": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+          "displayName": "TerraBlender",
+          "sha1": "3bd99fb59e8b06b04e78b5153790c1e08b2be5dc",
+          "iconUrl": null,
+          "side": "both",
+          "modrinthId": null,
+          "source": "custom"
+        },
+        {
+          "filename": "The Haunting v1.0.1.jar",
+          "displayName": "The Haunting v1.0.1",
+          "sha1": "8c1996f0d8e179099188519c8fc2306a42116d2b",
+          "iconUrl": null,
+          "side": "both",
+          "modrinthId": null,
+          "source": "custom"
+        },
+        {
+          "filename": "the_cooler_hopper-1.0.0-1.20.1.jar",
+          "displayName": "the cooler hopper",
+          "sha1": "153e7bda81f371681c0510260069286586d4fbf0",
+          "iconUrl": null,
+          "side": "both",
+          "modrinthId": null,
+          "source": "custom"
+        },
+        {
+          "filename": "the_wonderland-2.1.4-1.20.1.jar",
+          "displayName": "wonderland.jar",
+          "sha1": "c7a3372fee4c78293d9e084131fd2fdeadeabb90",
+          "iconUrl": "https://cdn.modrinth.com/data/IXZPFrP2/5116788c357c6e225146f3941f091f123eb63f6a_96.webp",
+          "side": "both",
+          "modrinthId": "IXZPFrP2",
+          "source": "modrinth"
+        },
+        {
+          "filename": "Tips-Forge-1.20.1-12.1.9.jar",
+          "displayName": "Tips",
+          "sha1": "033d62395ecf7939f82e5a69ef53cf62ad1afb7f",
+          "iconUrl": "https://cdn.modrinth.com/data/AMCbgyVw/72004203af0b996cb8ea09c66231dc50e4a62f82.png",
+          "side": "client",
+          "modrinthId": "AMCbgyVw",
+          "source": "modrinth"
+        },
+        {
+          "filename": "un_seventysix-0.1.2-Forge.jar",
+          "displayName": "Universe 76",
+          "sha1": "d874876c1a3cabeeeeca74b3bd8b4b6ec071260c",
+          "iconUrl": "https://cdn.modrinth.com/data/TrLknq7g/52209d4f64fe27558038f39c0ce1c0883801111a_96.webp",
+          "side": "both",
+          "modrinthId": "TrLknq7g",
+          "source": "modrinth"
+        },
+        {
+          "filename": "universalclockhud-1.20.1-1.7.0.jar",
+          "displayName": "Universal Clock HUD (Fork)",
+          "sha1": "bb0c62f0e5c886cb4e7ac7e2cfa903257fb5b0ea",
+          "iconUrl": "https://cdn.modrinth.com/data/2E2bpUHF/b5577249be8e2bccd49d987d4ccd24432e06f062_96.webp",
+          "side": "client",
+          "modrinthId": "2E2bpUHF",
+          "source": "modrinth"
+        },
+        {
+          "filename": "voicechat-forge-1.20.1-2.6.15.jar",
+          "displayName": "Simple Voice Chat",
+          "sha1": "f9b6f5d73f3990412a1ce3ca2299640b1b3ee849",
+          "iconUrl": "https://cdn.modrinth.com/data/9eGKb6K1/icon.png",
+          "side": "both",
+          "modrinthId": "9eGKb6K1",
+          "source": "modrinth"
+        },
+        {
+          "filename": "VoidFog-1.20.1-2.0.23.jar",
+          "displayName": "Void Fog",
+          "sha1": "100d235034c0f9f9e55562d5d46797289d3388f4",
+          "iconUrl": "https://cdn.modrinth.com/data/cAptbNNE/1deead2a7a5ad43c00e351b42c4ca8ff4a4438c5_96.webp",
+          "side": "client",
+          "modrinthId": "cAptbNNE",
+          "source": "modrinth"
+        },
+        {
+          "filename": "weeping_angels-46.1.5-forge.jar",
+          "displayName": "Doctor Who: Weeping Angels",
+          "sha1": "0a5b6691b9ac3adc67984f063d85eb5e2f9a06ba",
+          "iconUrl": "https://cdn.modrinth.com/data/TEzJJY7H/73ea98307ef30dc31168d1a52bb1e9fe9c9fcf79_96.webp",
+          "side": "both",
+          "modrinthId": "TEzJJY7H",
+          "source": "modrinth"
+        },
+        {
+          "filename": "WhisperingSpirits-forge-1.20.1-v1.4.0.jar",
+          "displayName": "Whispering Spirits",
+          "sha1": "6807911d5f2f8389a6a2f208a52a18c64b574f03",
+          "iconUrl": "https://cdn.modrinth.com/data/EVn5o9hS/a67333e989275776c215719bf68d07c18a0279bb_96.webp",
+          "side": "both",
+          "modrinthId": "EVn5o9hS",
+          "source": "modrinth"
+        },
+        {
+          "filename": "woodenhopper-1.20.1-1.6.0.1.jar",
+          "displayName": "woodenhopper",
+          "sha1": "9f5214d27734a8c433a66579c28322a25a3f8858",
+          "iconUrl": null,
+          "side": "both",
+          "modrinthId": null,
+          "source": "custom"
+        }
+      ]
     }
   ]
 }
